@@ -1,4 +1,4 @@
 {
-  "appId": "ABC123",   
-  "appKey": "ABCDEFGH"  
+  "appId": "19WEH1",   
+  "appKey": "ABCDEFGHABCDEFGH12"  
 }
